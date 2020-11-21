@@ -1,0 +1,2 @@
+C:\Users\Guilherme\AprendendoCPlusPlus\prjInOut\Debug\prjInOut.exe
+C:\Users\Guilherme\AprendendoCPlusPlus\prjInOut\Debug\prjInOut.pdb
